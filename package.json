@@ -1,7 +1,7 @@
 {
   "name": "clone-tabnew",
   "version": "1.0.0",
-  "description": "Aprendendo com Felipe Deschamps",
+  "description": "Criando meu espaço na internet",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
